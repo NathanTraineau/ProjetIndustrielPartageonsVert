@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7146aa90-94db-4693-b21a-78a603148a2d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/core/includes/bootstrap.inc" beforeDir="false" afterPath="$PROJECT_DIR$/core/includes/bootstrap.inc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sites/default/settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/settings.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="709" column="56" lean-forward="true" selection-start-line="709" selection-start-column="56" selection-end-line="709" selection-end-column="56" />
+            <state relative-caret-position="412">
+              <caret line="711" column="1" lean-forward="true" selection-start-line="711" selection-start-column="1" selection-end-line="711" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -199,7 +198,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5590000" />
+    <option name="totallyTimeSpent" value="6194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="14" width="1400" height="784" extended-state="0" />
@@ -282,8 +281,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="709" column="56" lean-forward="true" selection-start-line="709" selection-start-column="56" selection-end-line="709" selection-end-column="56" />
+        <state relative-caret-position="412">
+          <caret line="711" column="1" lean-forward="true" selection-start-line="711" selection-start-column="1" selection-end-line="711" selection-end-column="1" />
         </state>
       </provider>
     </entry>
