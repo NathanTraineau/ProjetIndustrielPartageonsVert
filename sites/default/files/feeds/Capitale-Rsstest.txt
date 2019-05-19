@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.capitale-biodiversite.fr/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"> <channel> <title>Recueil d’expériences</title>
+ <link>http://www.capitale-biodiversite.fr/</link>
+ <atom:link rel="self" href="http://www.capitale-biodiversite.fr/Capitale-Rsstest" />
+ <language>[FR-fr]</language>
+ <copyright>[Agence régionale de la biodiversite ile-de-france]</copyright>
+ <pubDate>Mon, 21 Jan 2019 18:58:38 +0100</pubDate>
+ <lastBuildDate>Wed, 23 Jan 2019 13:41:49 +0100</lastBuildDate>
+ <item> <title>&lt;a href=&quot;/experiences/jeu-de-piste-dans-le-bois-des-vouillants&quot;&gt;Jeu de piste dans le Bois des Vouillants&lt;/a&gt;</title>
+ <link>&lt;a href=&quot;/experiences/jeu-de-piste-dans-le-bois-des-vouillants&quot;&gt;Lire la suite&lt;/a&gt;</link>
+ <description>Organisme/institution en charge de la mise en œuvre : Grenoble-Alpes Métropole&lt;br /&gt;Services de la collectivité associés : Service gestion des espaces naturels et du patrimoine arboré&lt;br /&gt;Budget : 30 000 €&lt;br /&gt;Partenaires ﬁnanciers : Union Européenne (Interreg Alpine Space, projet « Landscape ad Open Space Development in Alpine Metropolitan Areas » - LOS_DAMA! )&lt;br /&gt;Partenaires techniques : Association COMET ; Pascal Servet Conception ; Puzzle Animation&lt;br /&gt;Date de début du projet : 05/03/2018&lt;br /&gt;Date de ﬁn : 13/10/2018
+OBJECTIFS&lt;br /&gt;
+Grenoble-Alpes Métropole souhaite favoriser la participation citoyenne pour la gestion de ses espaces naturels. Le Bois des Vouillants est une forêt péri-urbaine de 450 ha assez fréquentée (plus de 85 000 visiteurs par an). La diversité et la qualité des habitats (pelouses sèches calcaires, falaises, chênaies pubescentes et tillaies sèches) en fait un des plus importants spots de biodiversité de la métropole de Grenoble. Ce site naturel fait l’objet de nombreux usages : promenade, repos, randonnée, trail, VTT, escalade, course d’orientation, barbecues, production de bois, pâturage, cultures, observation de la nature. L’objectif de cette action est de créer une dynamique d’écoute et de partage entre les acteurs techniques gestionnaires du site et les usagers, qu’ils soient professionnels, amateurs, organisés en association ou individuels.&lt;br /&gt;
+Cette dynamique de collaboration s’articule autour de deux notions principales, qui sont :
+l’existence d’un patrimoine naturel et d’une biodiversité péri-urbaine à préserver ;
+les enjeux de la conciliation des usages : préservation de la biodiversité, accueil d’un public varié et production agricole et forestière.
+Cette action tente de répondre à la question suivante : comment valoriser et faire découvrir le patrimoine naturel, tout en le préservant pour que d’autres puissent en profiter à leur tour ? À terme, l’objectif serait que les usagers se sentent co-responsables de l’espace naturel dont ils profitent.
+ 
+MESURES MISES EN ŒUVRE&lt;br /&gt;
+Deux mesures ont été programmées pour le printemps 2018. Tout d’abord, un atelier collaboratif réunissant l’ensemble des partenaires techniques, les usagers du site et certains citoyens de la Métropole a été organisé afin de créer une dynamique de partage et un lieu de discussion autour des enjeux de gestion de cet espace naturel. Deuxièmement, un jeu de piste théâtralisé en milieu naturel a eu lieu le 13 octobre 2018, afin de partager et véhiculer les valeurs de respect du milieu et de la biodiversité, ainsi que celle de partage de l’espace. Le contenu pédagogique du jeu avait été construit lors de l’atelier collaboratif.
+Atelier participatif&lt;br /&gt;
+Animé par une équipe de professionnels de la participation citoyenne, l’atelier s’est déroulé en trois phases : d’abord un travail en équipe afin de retrouver le plus possible d’usagers potentiels du Bois des Vouillants, puis un exercice de cartographie participative pour spatialiser ces usages et les conflits qui pourraient apparaître et enfin la création de traits de caractères pour des personnages imaginaires du jeu de piste théâtralisé. Les participants ont finalement dégagé les valeurs essentielles à transmettre lors du jeu de piste. Au total, 40 personnes ont participé à cet atelier, représentants de différentes structures : Grenoble-Alpes Métropole, département de l’Isère, communes, Office National des Forêts, associations naturalistes, culturelles et sportives, chasseurs, agriculteurs, ainsi que des citoyens et des habitants du site.
+Jeu de piste théâtralisé en milieu naturel&lt;br /&gt;
+Ce jeu de piste a pour vocation de faire découvrir l’espace naturel aux participants, en les immergeant en même temps dans un monde fantastique. L’objectif est de leur faire prendre conscience de la valeur de la biodiversité, ainsi que de l’importance de l’acceptation des autres dans cet espace naturel. Le scénario accentuera certains conflits d’usages entre les personnages du jeu mais les participants seront interdépendants et leur victoire dépendra notamment de leur capacité à protéger suffisamment le milieu pour obtenir la victoire.&lt;br /&gt;
+L’objectif du jeu n’est pas d’apporter des connaissances brutes aux participants mais plutôt de les sensibiliser par les sensations. La collaboration avec des professionnels du jeu permettra de travailler sur cet aspect.
+
+ 
+RÉSULTATS/IMPACT POUR LA BIODIVERSITÉ&lt;br /&gt;
+Le jeu de piste théâtralisé a été un grand succès puisque plus de 1 500 personnes (petits et grands) sont&lt;br /&gt;
+venus jouer entre 10 h et 18 h dans l’espace naturel. Cet engouement montre bien la puissance des outils un peu innovants pour faire découvrir autrement les espaces : le jeu en est un. Les familles ont émis des retours très positifs sur le jeu, d’une part parce que tous ce sont détendus, mais surtout parce qu’ils ont soit découvert l’existence de ce milieu naturel à quelques kilomètres de la ville, soit parce qu’ils ont mieux pris conscience de sa valeur.&lt;br /&gt;
+En ce qui concerne les impacts sur la biodiversité, ce type d’action n’a pas d’effet concret et visible à court terme sur la biodiversité. Néanmoins, nombreuses sont les expériences infructueuses de sensibilisation du public par la voie « rationnelle » : panneaux d’information, jeux pédagogiques très peu ludiques, etc. Cette action est innovante dans le sens où les valeurs transmises aux participants l’ont été dans le scénario même du jeu et pas dans les connaissances transmises. Cet angle d’attaque permet de faire ressentir la biodiversité et l’importance de la préservation du milieu, au lieu de l’expliquer et de la faire comprendre.
+Contact :&lt;br /&gt;
+Samuel DURANTE, chargée de mission eau&lt;br /&gt;samuel.durante@lametro.fr&lt;br /&gt;
+04 56 58 53 39
+Sabrina BIBOLLET, chargée de mission Espace Naturel et patrimoine arboré&lt;br /&gt;sabrina.bibollet@lametro.fr&lt;br /&gt;
+04 76 59 59 76
+</description>
+ <guid isPermaLink="false">933</guid>
+ <pubDate>2018</pubDate>
+ <source url="http://www.capitale-biodiversite.fr/Capitale-Rsstest">Recueil d’expériences</source>
+ <dc:title>&lt;a href=&quot;/experiences/jeu-de-piste-dans-le-bois-des-vouillants&quot;&gt;Jeu de piste dans le Bois des Vouillants&lt;/a&gt;</dc:title>
+ <dc:description>Organisme/institution en charge de la mise en œuvre : Grenoble-Alpes Métropole&lt;br /&gt;Services de la collectivité associés : Service gestion des espaces naturels et du patrimoine arboré&lt;br /&gt;Budget : 30 000 €&lt;br /&gt;Partenaires ﬁnanciers : Union Européenne (Interreg Alpine Space, projet « Landscape ad Open Space Development in Alpine Metropolitan Areas » - LOS_DAMA! )&lt;br /&gt;Partenaires techniques : Association COMET ; Pascal Servet Conception ; Puzzle Animation&lt;br /&gt;Date de début du projet : 05/03/2018&lt;br /&gt;Date de ﬁn : 13/10/2018
+OBJECTIFS&lt;br /&gt;
+Grenoble-Alpes Métropole souhaite favoriser la participation citoyenne pour la gestion de ses espaces naturels. Le Bois des Vouillants est une forêt péri-urbaine de 450 ha assez fréquentée (plus de 85 000 visiteurs par an). La diversité et la qualité des habitats (pelouses sèches calcaires, falaises, chênaies pubescentes et tillaies sèches) en fait un des plus importants spots de biodiversité de la métropole de Grenoble. Ce site naturel fait l’objet de nombreux usages : promenade, repos, randonnée, trail, VTT, escalade, course d’orientation, barbecues, production de bois, pâturage, cultures, observation de la nature. L’objectif de cette action est de créer une dynamique d’écoute et de partage entre les acteurs techniques gestionnaires du site et les usagers, qu’ils soient professionnels, amateurs, organisés en association ou individuels.&lt;br /&gt;
+Cette dynamique de collaboration s’articule autour de deux notions principales, qui sont :
+l’existence d’un patrimoine naturel et d’une biodiversité péri-urbaine à préserver ;
+les enjeux de la conciliation des usages : préservation de la biodiversité, accueil d’un public varié et production agricole et forestière.
+Cette action tente de répondre à la question suivante : comment valoriser et faire découvrir le patrimoine naturel, tout en le préservant pour que d’autres puissent en profiter à leur tour ? À terme, l’objectif serait que les usagers se sentent co-responsables de l’espace naturel dont ils profitent.
+ 
+MESURES MISES EN ŒUVRE&lt;br /&gt;
+Deux mesures ont été programmées pour le printemps 2018. Tout d’abord, un atelier collaboratif réunissant l’ensemble des partenaires techniques, les usagers du site et certains citoyens de la Métropole a été organisé afin de créer une dynamique de partage et un lieu de discussion autour des enjeux de gestion de cet espace naturel. Deuxièmement, un jeu de piste théâtralisé en milieu naturel a eu lieu le 13 octobre 2018, afin de partager et véhiculer les valeurs de respect du milieu et de la biodiversité, ainsi que celle de partage de l’espace. Le contenu pédagogique du jeu avait été construit lors de l’atelier collaboratif.
+Atelier participatif&lt;br /&gt;
+Animé par une équipe de professionnels de la participation citoyenne, l’atelier s’est déroulé en trois phases : d’abord un travail en équipe afin de retrouver le plus possible d’usagers potentiels du Bois des Vouillants, puis un exercice de cartographie participative pour spatialiser ces usages et les conflits qui pourraient apparaître et enfin la création de traits de caractères pour des personnages imaginaires du jeu de piste théâtralisé. Les participants ont finalement dégagé les valeurs essentielles à transmettre lors du jeu de piste. Au total, 40 personnes ont participé à cet atelier, représentants de différentes structures : Grenoble-Alpes Métropole, département de l’Isère, communes, Office National des Forêts, associations naturalistes, culturelles et sportives, chasseurs, agriculteurs, ainsi que des citoyens et des habitants du site.
+Jeu de piste théâtralisé en milieu naturel&lt;br /&gt;
+Ce jeu de piste a pour vocation de faire découvrir l’espace naturel aux participants, en les immergeant en même temps dans un monde fantastique. L’objectif est de leur faire prendre conscience de la valeur de la biodiversité, ainsi que de l’importance de l’acceptation des autres dans cet espace naturel. Le scénario accentuera certains conflits d’usages entre les personnages du jeu mais les participants seront interdépendants et leur victoire dépendra notamment de leur capacité à protéger suffisamment le milieu pour obtenir la victoire.&lt;br /&gt;
+L’objectif du jeu n’est pas d’apporter des connaissances brutes aux participants mais plutôt de les sensibiliser par les sensations. La collaboration avec des professionnels du jeu permettra de travailler sur cet aspect.
+
+ 
+RÉSULTATS/IMPACT POUR LA BIODIVERSITÉ&lt;br /&gt;
+Le jeu de piste théâtralisé a été un grand succès puisque plus de 1 500 personnes (petits et grands) sont&lt;br /&gt;
+venus jouer entre 10 h et 18 h dans l’espace naturel. Cet engouement montre bien la puissance des outils un peu innovants pour faire découvrir autrement les espaces : le jeu en est un. Les familles ont émis des retours très positifs sur le jeu, d’une part parce que tous ce sont détendus, mais surtout parce qu’ils ont soit découvert l’existence de ce milieu naturel à quelques kilomètres de la ville, soit parce qu’ils ont mieux pris conscience de sa valeur.&lt;br /&gt;
+En ce qui concerne les impacts sur la biodiversité, ce type d’action n’a pas d’effet concret et visible à court terme sur la biodiversité. Néanmoins, nombreuses sont les expériences infructueuses de sensibilisation du public par la voie « rationnelle » : panneaux d’information, jeux pédagogiques très peu ludiques, etc. Cette action est innovante dans le sens où les valeurs transmises aux participants l’ont été dans le scénario même du jeu et pas dans les connaissances transmises. Cet angle d’attaque permet de faire ressentir la biodiversité et l’importance de la préservation du milieu, au lieu de l’expliquer et de la faire comprendre.
+Contact :&lt;br /&gt;
+Samuel DURANTE, chargée de mission eau&lt;br /&gt;samuel.durante@lametro.fr&lt;br /&gt;
+04 56 58 53 39
+Sabrina BIBOLLET, chargée de mission Espace Naturel et patrimoine arboré&lt;br /&gt;sabrina.bibollet@lametro.fr&lt;br /&gt;
+04 76 59 59 76
+</dc:description>
+ <dc:date>2018</dc:date>
+</item>
+ <item> <title>&lt;a href=&quot;/experiences/programme-deducation-lenvironnement&quot;&gt;Programme d’éducation à l’environnement&lt;/a&gt;</title>
+ <link>&lt;a href=&quot;/experiences/programme-deducation-lenvironnement&quot;&gt;Lire la suite&lt;/a&gt;</link>
+ <description>Organisme/institution en charge de la mise en œuvre : Communauté d’agglomération de Lisieux-Normandie&lt;br /&gt;Services de la collectivité associés : Service environnement&lt;br /&gt;Budget : 39 300 €&lt;br /&gt;Partenaires ﬁnanciers : Région Normandie ; Agence de l’Eau Seine-Normandie&lt;br /&gt;Partenaires techniques : les associations d’éducation à l’environnement&lt;br /&gt;Date de début du projet : 01/01/2018&lt;br /&gt;Date de ﬁn : 30/06/2019
+OBJECTIFS&lt;br /&gt;
+Dans le cadre de ses missions relatives à la préservation de la biodiversité, aux cycles de l’eau, à la gestion des déchets ou à l’énergie, la communauté d’agglomération intervient auprès du grand public, des élus et des scolaires pour sensibiliser, informer et former au développement durable. Pour mettre en cohérence des actions déjà menées, la Direction de l’environnement a élaboré un programme d’éducation à l’environnement destiné à un grand nombre de public du territoire :
+des sorties nature pour le grand public organisées tous les mois ;
+des animations scolaires de la maternelle au collège, dans les centres de loisirs ;
+des interventions lors d’évènements locaux ou à la demande auprès d’organismes collectifs, d’établissements publics, d’entreprises ;
+des visites de sites ou des formations pour les élus.
+L’objectif est de proposer un catalogue d’animation et de formation aux différents acteurs du territoire et de répondre le plus largement possible à leurs aux attentes.
+
+MESURES MISES EN ŒUVRE&lt;br /&gt;
+Ce programme d’éducation à l’environnement a été mis en place de façon à toucher le plus d’habitants possibles :
+Le grand public, avec une sortie nature par mois sur des thématiques variées. L’objectif est à la fois de faire découvrir les richesses du patrimoine naturel mais aussi de valoriser les actions misent en œuvre (gestion écologique de site comme des coteaux calcaires, gîtes à chauves-souris…). En fin d’année, un bilan permettra aux citoyens de s’exprimer sur les rendez-vous nature et de proposer de nouveaux sujets de sortie.
+Les scolaires. Un catalogue d’animations sera proposé aux professeurs de l’ensemble des écoles du territoire afin de les accompagner sur leur programme d’éducation en lien avec l’eau, l’énergie, la biodiversité, le gaspillage alimentaire et les déchets.
+Les centres de loisirs, pendant les vacances des animations éducatives seront organisés sur le thème de la biodiversité et sur le terrain pour faire découvrir les sites naturels du territoire.
+Le lycée agricole du Robillard. Une convention a été signée en début d’année entre la communauté d’agglomération et le lycée. Une classe a déjà réalisé un film d’animation sur la trame verte et bleue ainsi qu’une exposition sur le lien entre biodiversité et agriculture. Ces travaux réalisés ont permis aux élèves d’appréhender les enjeux liés à la biodiversité et seront réutilisés pour de sensibiliser les scolaires, le grand public…
+Les élus. Deux journées sont prévues pour sensibiliser les élus et leur faire découvrir la biodiversité locale, les pratiques et initiatives du territoire et des territoires voisins en matière de gestion et de conception écologique.
+Les agents de la collectivité. Un état des lieux des pratiques des différents services est en cours. L’objectif est de mettre en œuvre des actions concrètes pour une transition écologique (covoiturage, tri des déchets…)
+
+RÉSULTATS/IMPACT POUR LA BIODIVERSITÉ&lt;br /&gt;
+Les animations grand public permettent de faire découvrir le patrimoine naturel des habitants du territoire, et de leur faire prendre conscience des enjeux environnementaux. C’est aussi un moyen de faire découvrir les alternatives et actions possible en faveur de la biodiversité (permaculture, le « faire soi-même », hôtels à insectes…). Il en va de même pour les scolaires qui redécouvrent la nature et ses ressources et qui transmettent leurs nouveaux savoirs dans leurs familles.&lt;br /&gt;
+L’impact est tout aussi positif pour les futurs agriculteurs du lycée agricole, les interventions et le travail effectué  autour de la biodiversité leur a permis de s’interroger sur l’intérêt de celle-ci et de sa place dans l’agriculture.
+Contact :&lt;br /&gt;
+Sandrine BANVILLE, responsable du service Environnement &lt;br /&gt;sbanville@agglo-lisieux.fr&lt;br /&gt;
+02 50 68 90 27
+Pour en savoir plus : &lt;br /&gt;http://lisieux-normandie.fr/
+</description>
+ <guid isPermaLink="false">932</guid>
+ <pubDate>2018</pubDate>
+ <source url="http://www.capitale-biodiversite.fr/Capitale-Rsstest">Recueil d’expériences</source>
+ <dc:title>&lt;a href=&quot;/experiences/programme-deducation-lenvironnement&quot;&gt;Programme d’éducation à l’environnement&lt;/a&gt;</dc:title>
+ <dc:description>Organisme/institution en charge de la mise en œuvre : Communauté d’agglomération de Lisieux-Normandie&lt;br /&gt;Services de la collectivité associés : Service environnement&lt;br /&gt;Budget : 39 300 €&lt;br /&gt;Partenaires ﬁnanciers : Région Normandie ; Agence de l’Eau Seine-Normandie&lt;br /&gt;Partenaires techniques : les associations d’éducation à l’environnement&lt;br /&gt;Date de début du projet : 01/01/2018&lt;br /&gt;Date de ﬁn : 30/06/2019
+OBJECTIFS&lt;br /&gt;
+Dans le cadre de ses missions relatives à la préservation de la biodiversité, aux cycles de l’eau, à la gestion des déchets ou à l’énergie, la communauté d’agglomération intervient auprès du grand public, des élus et des scolaires pour sensibiliser, informer et former au développement durable. Pour mettre en cohérence des actions déjà menées, la Direction de l’environnement a élaboré un programme d’éducation à l’environnement destiné à un grand nombre de public du territoire :
+des sorties nature pour le grand public organisées tous les mois ;
+des animations scolaires de la maternelle au collège, dans les centres de loisirs ;
+des interventions lors d’évènements locaux ou à la demande auprès d’organismes collectifs, d’établissements publics, d’entreprises ;
+des visites de sites ou des formations pour les élus.
+L’objectif est de proposer un catalogue d’animation et de formation aux différents acteurs du territoire et de répondre le plus largement possible à leurs aux attentes.
+
+MESURES MISES EN ŒUVRE&lt;br /&gt;
+Ce programme d’éducation à l’environnement a été mis en place de façon à toucher le plus d’habitants possibles :
+Le grand public, avec une sortie nature par mois sur des thématiques variées. L’objectif est à la fois de faire découvrir les richesses du patrimoine naturel mais aussi de valoriser les actions misent en œuvre (gestion écologique de site comme des coteaux calcaires, gîtes à chauves-souris…). En fin d’année, un bilan permettra aux citoyens de s’exprimer sur les rendez-vous nature et de proposer de nouveaux sujets de sortie.
+Les scolaires. Un catalogue d’animations sera proposé aux professeurs de l’ensemble des écoles du territoire afin de les accompagner sur leur programme d’éducation en lien avec l’eau, l’énergie, la biodiversité, le gaspillage alimentaire et les déchets.
+Les centres de loisirs, pendant les vacances des animations éducatives seront organisés sur le thème de la biodiversité et sur le terrain pour faire découvrir les sites naturels du territoire.
+Le lycée agricole du Robillard. Une convention a été signée en début d’année entre la communauté d’agglomération et le lycée. Une classe a déjà réalisé un film d’animation sur la trame verte et bleue ainsi qu’une exposition sur le lien entre biodiversité et agriculture. Ces travaux réalisés ont permis aux élèves d’appréhender les enjeux liés à la biodiversité et seront réutilisés pour de sensibiliser les scolaires, le grand public…
+Les élus. Deux journées sont prévues pour sensibiliser les élus et leur faire découvrir la biodiversité locale, les pratiques et initiatives du territoire et des territoires voisins en matière de gestion et de conception écologique.
+Les agents de la collectivité. Un état des lieux des pratiques des différents services est en cours. L’objectif est de mettre en œuvre des actions concrètes pour une transition écologique (covoiturage, tri des déchets…)
+
+RÉSULTATS/IMPACT POUR LA BIODIVERSITÉ&lt;br /&gt;
+Les animations grand public permettent de faire découvrir le patrimoine naturel des habitants du territoire, et de leur faire prendre conscience des enjeux environnementaux. C’est aussi un moyen de faire découvrir les alternatives et actions possible en faveur de la biodiversité (permaculture, le « faire soi-même », hôtels à insectes…). Il en va de même pour les scolaires qui redécouvrent la nature et ses ressources et qui transmettent leurs nouveaux savoirs dans leurs familles.&lt;br /&gt;
+L’impact est tout aussi positif pour les futurs agriculteurs du lycée agricole, les interventions et le travail effectué  autour de la biodiversité leur a permis de s’interroger sur l’intérêt de celle-ci et de sa place dans l’agriculture.
+Contact :&lt;br /&gt;
+Sandrine BANVILLE, responsable du service Environnement &lt;br /&gt;sbanville@agglo-lisieux.fr&lt;br /&gt;
+02 50 68 90 27
+Pour en savoir plus : &lt;br /&gt;http://lisieux-normandie.fr/
+</dc:description>
+ <dc:date>2018</dc:date>
+</item>
+ <item> <title>&lt;a href=&quot;/experiences/jardin-des-avettes-rucher-ecole-citoyen-et-refuge-lpo&quot;&gt;Jardin des Avettes : rucher-école citoyen et refuge LPO&lt;/a&gt;</title>
+ <link>&lt;a href=&quot;/experiences/jardin-des-avettes-rucher-ecole-citoyen-et-refuge-lpo&quot;&gt;Lire la suite&lt;/a&gt;</link>
+ <description>Organisme/institution en charge de la mise en œuvre : la ville d’Arles&lt;br /&gt;Services de la collectivité associés : Service développement durable ; Services techniques ponctuellement&lt;br /&gt;Budget : 26 093 €&lt;br /&gt;Partenaires ﬁnanciers : État (à travers le programme Territoire à énergie positive pour la croissance verte ou TEPCV)&lt;br /&gt;Partenaires techniques : Ligue pour la protection des oiseaux (LPO) ; association l’Apier ; une ethnobotaniste ; une apicultrice ; une agricultrice&lt;br /&gt;Date de début du projet : 01/07/2016&lt;br /&gt;Date de ﬁn : 01/07/2026 (ﬁn de la convention avec l’Apier)
+OBJECTIFS&lt;br /&gt;
+Arles a souhaité créer un rucher-école et un refuge pour la faune et la flore sur un site aux portes de la ville. Ce projet s’inscrit dans le plan local de la biodiversité et a pour objectifs de :
+devenir un démonstrateur de l’apiculture et de méthodes d’apiculture respectueuses du cycle de vie de la ruche ;
+être un lieu d’expérimentation où les apiculteurs amateurs pourront installer des ruches ;
+sensibiliser les habitants à la gestion écologique et au rôle des pollinisateurs dans la nature ;
+donner à comprendre et à voir les dynamiques naturelles sur une partie du site laissée en libre évolution ;
+associer les citoyens à la gestion du jardin.
+ 
+MESURES MISES EN ŒUVRE&lt;br /&gt;
+Ce projet commencé en juillet 2016 comprend jusqu’en 2026 :
+un rucher-école pour former, initier, sensibiliser tout public à une apiculture respectueuse de l’environnement et des abeilles, ainsi que pour montrer le rôle indispensable des pollinisateurs dans le maintien de la biodiversité ;
+un emplacement pour que des personnes puissent installer leur propre ruche ;
+l’installation du rucher-école (ruches, essaims, matériel d’apiculture, matériel de protection du public) ;
+un diagnostic et suivi écologique effectué par la LPO ;
+le semis d’une prairie mellifère avec des plantes sauvages ;
+la pose de 4 nichoirs (à chouette, Mésange bleue, Mésange charbonnière et Rouge-queue noir) ;
+l’organisation d’une dizaine de chantiers participatifs pour nettoyer le terrain, semer la prairie, mettre en place les nichoirs ;
+l’installation d’un parcours ethnobotanique ;
+la création d’un verger participatif.
+ 
+
+RÉSULTATS / IMPACT POUR LA BIODIVERSITÉ&lt;br /&gt;
+Arles a ainsi mis à disposition un terrain de 2 ha dont la gestion est confiée à l’association Apier. Par ailleurs, les aménagements réalisés pour développer la faune et la flore utiles aux abeilles, a permis de créer sur ce site un refuge LPO. Cette labellisation accompagnée d’une signalétique, profitera aussi bien aux espèces présentes sur le site qu’aux citoyens.
+Contact :&lt;br /&gt;
+Colette ALLARD-VERNIER, référente Biodiversité&lt;br /&gt;c.allard-vernier@ville-arles.fr&lt;br /&gt;
+04 90 49 38 47 
+Pour en savoir plus :&lt;br /&gt;www.ville-arles.fr&lt;br /&gt;
+rubriques : environnement/biodiversité/des ruches en ville
+</description>
+ <guid isPermaLink="false">931</guid>
+ <pubDate>2018</pubDate>
+ <source url="http://www.capitale-biodiversite.fr/Capitale-Rsstest">Recueil d’expériences</source>
+ <dc:title>&lt;a href=&quot;/experiences/jardin-des-avettes-rucher-ecole-citoyen-et-refuge-lpo&quot;&gt;Jardin des Avettes : rucher-école citoyen et refuge LPO&lt;/a&gt;</dc:title>
+ <dc:description>Organisme/institution en charge de la mise en œuvre : la ville d’Arles&lt;br /&gt;Services de la collectivité associés : Service développement durable ; Services techniques ponctuellement&lt;br /&gt;Budget : 26 093 €&lt;br /&gt;Partenaires ﬁnanciers : État (à travers le programme Territoire à énergie positive pour la croissance verte ou TEPCV)&lt;br /&gt;Partenaires techniques : Ligue pour la protection des oiseaux (LPO) ; association l’Apier ; une ethnobotaniste ; une apicultrice ; une agricultrice&lt;br /&gt;Date de début du projet : 01/07/2016&lt;br /&gt;Date de ﬁn : 01/07/2026 (ﬁn de la convention avec l’Apier)
+OBJECTIFS&lt;br /&gt;
+Arles a souhaité créer un rucher-école et un refuge pour la faune et la flore sur un site aux portes de la ville. Ce projet s’inscrit dans le plan local de la biodiversité et a pour objectifs de :
+devenir un démonstrateur de l’apiculture et de méthodes d’apiculture respectueuses du cycle de vie de la ruche ;
+être un lieu d’expérimentation où les apiculteurs amateurs pourront installer des ruches ;
+sensibiliser les habitants à la gestion écologique et au rôle des pollinisateurs dans la nature ;
+donner à comprendre et à voir les dynamiques naturelles sur une partie du site laissée en libre évolution ;
+associer les citoyens à la gestion du jardin.
+ 
+MESURES MISES EN ŒUVRE&lt;br /&gt;
+Ce projet commencé en juillet 2016 comprend jusqu’en 2026 :
+un rucher-école pour former, initier, sensibiliser tout public à une apiculture respectueuse de l’environnement et des abeilles, ainsi que pour montrer le rôle indispensable des pollinisateurs dans le maintien de la biodiversité ;
+un emplacement pour que des personnes puissent installer leur propre ruche ;
+l’installation du rucher-école (ruches, essaims, matériel d’apiculture, matériel de protection du public) ;
+un diagnostic et suivi écologique effectué par la LPO ;
+le semis d’une prairie mellifère avec des plantes sauvages ;
+la pose de 4 nichoirs (à chouette, Mésange bleue, Mésange charbonnière et Rouge-queue noir) ;
+l’organisation d’une dizaine de chantiers participatifs pour nettoyer le terrain, semer la prairie, mettre en place les nichoirs ;
+l’installation d’un parcours ethnobotanique ;
+la création d’un verger participatif.
+ 
+
+RÉSULTATS / IMPACT POUR LA BIODIVERSITÉ&lt;br /&gt;
+Arles a ainsi mis à disposition un terrain de 2 ha dont la gestion est confiée à l’association Apier. Par ailleurs, les aménagements réalisés pour développer la faune et la flore utiles aux abeilles, a permis de créer sur ce site un refuge LPO. Cette labellisation accompagnée d’une signalétique, profitera aussi bien aux espèces présentes sur le site qu’aux citoyens.
+Contact :&lt;br /&gt;
+Colette ALLARD-VERNIER, référente Biodiversité&lt;br /&gt;c.allard-vernier@ville-arles.fr&lt;br /&gt;
+04 90 49 38 47 
+Pour en savoir plus :&lt;br /&gt;www.ville-arles.fr&lt;br /&gt;
+rubriques : environnement/biodiversité/des ruches en ville
+</dc:description>
+ <dc:date>2018</dc:date>
+</item>
+ <item> <title>&lt;a href=&quot;/experiences/chantier-citoyen-et-creation-dun-sentier-naturel-pedagogique&quot;&gt;Chantier citoyen et création d’un sentier naturel pédagogique&lt;/a&gt;</title>
+ <link>&lt;a href=&quot;/experiences/chantier-citoyen-et-creation-dun-sentier-naturel-pedagogique&quot;&gt;Lire la suite&lt;/a&gt;</link>
+ <description>Organisme/institution en charge de la mise en œuvre : la ville d’Albi&lt;br /&gt;Services de la collectivité associés : Service patrimoine végétal et environnement ; Service vie des quartiers&lt;br /&gt;Budget : 500 € pour les premiers aménagements (soit 50 panneaux pour valoriser faune et ﬂore)&lt;br /&gt;Partenaires ﬁnanciers : Centre Équestre de l’Albigeois ; Ligue pour la protection des oiseaux (LPO) ; Tarn&lt;br /&gt;Partenaires techniques : Agence de l’eau Loire Bretagne ; Conseil départemental ;Agence Française pour la Biodiversité ; Police de l’eau ; Fédération de pêche ; Bureau d’études ARTELIA&lt;br /&gt;Date de début : 01/01/2017&lt;br /&gt;Date de ﬁn : 2020
+OBJECTIFS&lt;br /&gt;
+En 2017, le partenariat avec la LPO en faveur de la préservation d’une colonie d’hirondelles rustiques avait permis d’identifier les potentialités écologiques des 22 ha de terrains communaux sur lesquels est implanté le Centre Équestre Albigeois (CEA) ainsi que la profonde motivation de ses responsables pour la protection &lt;br /&gt;
+de la nature. La réalisation d’un diagnostic naturaliste fut confié par la ville à la LPO du Tarn pour formaliser un plan de gestion pour conserver aux mieux cet espace situé sur un plateau calcaire avec une vue unique sur la ville.&lt;br /&gt;
+Outre plusieurs espèces d’orchidées, l’inventaire a permis de recenser plusieurs stations de Céphalaire de Transylvanie (Cephalaria transylvanica), plante dont le statut de protection est régional. Afin de valoriser les&lt;br /&gt;
+actions du centre équestre (fin de vie en pré des chevaux âgés, concilier promenades équestres et pédestres tout en découvrant et en préservant la biodiversité locale), un partenariat s’est concrétisé entre les services municipaux, le CEA et la LPO du Tarn.
+
+MESURES MISES EN ŒUVRE&lt;br /&gt;
+L’étude de terrain menée en 2017 par la LPO du Tarn a mis en évidence de nombreux atouts existants et potentiels en matière de biodiversité sur le site : sa surface, la diversité des milieux naturels et l’environnement encore naturel des alentours (tous ces paramètres formant des conditions propices pour abriter de nombreuses espèces animales).&lt;br /&gt;
+Plusieurs tracés potentiels de sentiers ont été identifiés et évalués en fonction des besoins du CEA, des intérêts paysagers, des atouts pédagogiques et écologiques liés aux différents habitats traversés par le promeneur. Finalement, deux tracés ont finalement été retenus :
+un circuit court de 900 m faisant le tour des bâtiments du CEA ;
+un circuit plus complet de 1,6 km traversant plusieurs biotopes et conduisant à une position dominante propice à la lecture de paysage.
+Afin d’avoir une meilleure connaissance de la flore, 3 étudiants de l’université Champollion d’Albi ont été associés pour définir un protocole d’étude des pelouses sèches et réaliser une première étude ciblée sur la composition et la structure des habitats.&lt;br /&gt;
+Des débroussaillages anticipés ont été réalisés le long des sentiers en février pour éviter de déranger l’avifaune en période de nidification.&lt;br /&gt;
+Albi et le CEA ont organisé le 31 mai 2018 un chantier citoyen, réunissant les riverains des quartiers adjacents et les adhérents du club, visant à matérialiser les sentiers de randonnée et de les pérenniser. Les travaux concernent la mise en place d’une signalétique pédagogique, avec la préparation d’affiches thématiques réalisées par chaque partenaire et la modification des clôtures pour favoriser la co-activité randonneurs/ cavaliers. La LPO du Tarn a proposé aussi le 24 juin, à l’occasion des journées portes ouvertes du Club, des ballades de découverte de la biodiversité sur le site nouvellement classé en refuge LPO.
+
+RÉSULTATS / IMPACT POUR LA BIODIVERSITÉ :&lt;br /&gt;
+La création de sentiers de randonnée sur le site ayant été portée depuis plusieurs années par le conseil de quartier Lude Saint Salvadou, il a mobilisé de nombreux habitants. L’implication des riverains, des habitants du quartier, des cavaliers et de leurs familles autour du projet de sentier a favorisé la préservation écologique du site et un soutien au devoir de mémoire de ces deux quartiers ayant vécus en début de siècle au rythme de la mine de Ranteil.&lt;br /&gt;
+Pour la certification « Galops de Pleine Nature », le nouveau sentier naturel facilitera l’apprentissage de la partie « connaissance faunistique et floristique du milieu » inhérente à la réussite de l’épreuve dorénavant proposée par le CEA. De plus, la valorisation et la préservation de la biodiversité locale s’intégrera dans l’apprentissage des valeurs de respect et de responsabilité envers le vivant que le CEA cherche à transmettre à travers les chevaux.&lt;br /&gt;
+L’utilisation pédestre et équestre du sentier permettra de sensibiliser tous les habitants à la biodiversité locale et à découvrir les paysages albigeois. Lors du premier inventaire, plus de 30 espèces ont été observées sur les pelouses sèches. Le protocole défini en avril permettra de suivre l’évolution structurelle de la flore. Des chantiers de réouverture du milieu sont envisagés dès l’automne par des enseignants du campus de Fonlabour pour lutter contre la disparition des pelouses sèches.
+Contact :&lt;br /&gt;
+Guillaume Laval, Adjoint au Directeur du service Patrimoine Végétal et Environnement&lt;br /&gt;guillaume.laval@mairie-albi.fr
+</description>
+ <guid isPermaLink="false">930</guid>
+ <pubDate>2018</pubDate>
+ <source url="http://www.capitale-biodiversite.fr/Capitale-Rsstest">Recueil d’expériences</source>
+ <dc:title>&lt;a href=&quot;/experiences/chantier-citoyen-et-creation-dun-sentier-naturel-pedagogique&quot;&gt;Chantier citoyen et création d’un sentier naturel pédagogique&lt;/a&gt;</dc:title>
+ <dc:description>Organisme/institution en charge de la mise en œuvre : la ville d’Albi&lt;br /&gt;Services de la collectivité associés : Service patrimoine végétal et environnement ; Service vie des quartiers&lt;br /&gt;Budget : 500 € pour les premiers aménagements (soit 50 panneaux pour valoriser faune et ﬂore)&lt;br /&gt;Partenaires ﬁnanciers : Centre Équestre de l’Albigeois ; Ligue pour la protection des oiseaux (LPO) ; Tarn&lt;br /&gt;Partenaires techniques : Agence de l’eau Loire Bretagne ; Conseil départemental ;Agence Française pour la Biodiversité ; Police de l’eau ; Fédération de pêche ; Bureau d’études ARTELIA&lt;br /&gt;Date de début : 01/01/2017&lt;br /&gt;Date de ﬁn : 2020
+OBJECTIFS&lt;br /&gt;
+En 2017, le partenariat avec la LPO en faveur de la préservation d’une colonie d’hirondelles rustiques avait permis d’identifier les potentialités écologiques des 22 ha de terrains communaux sur lesquels est implanté le Centre Équestre Albigeois (CEA) ainsi que la profonde motivation de ses responsables pour la protection &lt;br /&gt;
+de la nature. La réalisation d’un diagnostic naturaliste fut confié par la ville à la LPO du Tarn pour formaliser un plan de gestion pour conserver aux mieux cet espace situé sur un plateau calcaire avec une vue unique sur la ville.&lt;br /&gt;
+Outre plusieurs espèces d’orchidées, l’inventaire a permis de recenser plusieurs stations de Céphalaire de Transylvanie (Cephalaria transylvanica), plante dont le statut de protection est régional. Afin de valoriser les&lt;br /&gt;
+actions du centre équestre (fin de vie en pré des chevaux âgés, concilier promenades équestres et pédestres tout en découvrant et en préservant la biodiversité locale), un partenariat s’est concrétisé entre les services municipaux, le CEA et la LPO du Tarn.
+
+MESURES MISES EN ŒUVRE&lt;br /&gt;
+L’étude de terrain menée en 2017 par la LPO du Tarn a mis en évidence de nombreux atouts existants et potentiels en matière de biodiversité sur le site : sa surface, la diversité des milieux naturels et l’environnement encore naturel des alentours (tous ces paramètres formant des conditions propices pour abriter de nombreuses espèces animales).&lt;br /&gt;
+Plusieurs tracés potentiels de sentiers ont été identifiés et évalués en fonction des besoins du CEA, des intérêts paysagers, des atouts pédagogiques et écologiques liés aux différents habitats traversés par le promeneur. Finalement, deux tracés ont finalement été retenus :
+un circuit court de 900 m faisant le tour des bâtiments du CEA ;
+un circuit plus complet de 1,6 km traversant plusieurs biotopes et conduisant à une position dominante propice à la lecture de paysage.
+Afin d’avoir une meilleure connaissance de la flore, 3 étudiants de l’université Champollion d’Albi ont été associés pour définir un protocole d’étude des pelouses sèches et réaliser une première étude ciblée sur la composition et la structure des habitats.&lt;br /&gt;
+Des débroussaillages anticipés ont été réalisés le long des sentiers en février pour éviter de déranger l’avifaune en période de nidification.&lt;br /&gt;
+Albi et le CEA ont organisé le 31 mai 2018 un chantier citoyen, réunissant les riverains des quartiers adjacents et les adhérents du club, visant à matérialiser les sentiers de randonnée et de les pérenniser. Les travaux concernent la mise en place d’une signalétique pédagogique, avec la préparation d’affiches thématiques réalisées par chaque partenaire et la modification des clôtures pour favoriser la co-activité randonneurs/ cavaliers. La LPO du Tarn a proposé aussi le 24 juin, à l’occasion des journées portes ouvertes du Club, des ballades de découverte de la biodiversité sur le site nouvellement classé en refuge LPO.
+
+RÉSULTATS / IMPACT POUR LA BIODIVERSITÉ :&lt;br /&gt;
+La création de sentiers de randonnée sur le site ayant été portée depuis plusieurs années par le conseil de quartier Lude Saint Salvadou, il a mobilisé de nombreux habitants. L’implication des riverains, des habitants du quartier, des cavaliers et de leurs familles autour du projet de sentier a favorisé la préservation écologique du site et un soutien au devoir de mémoire de ces deux quartiers ayant vécus en début de siècle au rythme de la mine de Ranteil.&lt;br /&gt;
+Pour la certification « Galops de Pleine Nature », le nouveau sentier naturel facilitera l’apprentissage de la partie « connaissance faunistique et floristique du milieu » inhérente à la réussite de l’épreuve dorénavant proposée par le CEA. De plus, la valorisation et la préservation de la biodiversité locale s’intégrera dans l’apprentissage des valeurs de respect et de responsabilité envers le vivant que le CEA cherche à transmettre à travers les chevaux.&lt;br /&gt;
+L’utilisation pédestre et équestre du sentier permettra de sensibiliser tous les habitants à la biodiversité locale et à découvrir les paysages albigeois. Lors du premier inventaire, plus de 30 espèces ont été observées sur les pelouses sèches. Le protocole défini en avril permettra de suivre l’évolution structurelle de la flore. Des chantiers de réouverture du milieu sont envisagés dès l’automne par des enseignants du campus de Fonlabour pour lutter contre la disparition des pelouses sèches.
+Contact :&lt;br /&gt;
+Guillaume Laval, Adjoint au Directeur du service Patrimoine Végétal et Environnement&lt;br /&gt;guillaume.laval@mairie-albi.fr
+</dc:description>
+ <dc:date>2018</dc:date>
+</item>
+ <item> <title>&lt;a href=&quot;/experiences/le-jardin-ecole&quot;&gt;Le jardin école&lt;/a&gt;</title>
+ <link>&lt;a href=&quot;/experiences/le-jardin-ecole&quot;&gt;Lire la suite&lt;/a&gt;</link>
+ <description>Organisme/institution en charge de la mise en œuvre : : la ville de Vauréal et la Cellule biodiversité de l’agglomération de Cergy-Pontoise (CACP)&lt;br /&gt;Services de la collectivité associés : Service espace public (voirie et espaces verts) ; Maison de la nature ; Service démocratie locale ; Service communication&lt;br /&gt;Budget : 4 250 € (dont 3 185 € pris en charge par la CACP et servent à rémunérer l’association b.a-BA qui anime 10 ateliers en 2018, le reste correspond à l’achat des végétaux)&lt;br /&gt;Partenaires ﬁnanciers : Communauté d’agglomération de Cergy-Pontoise&lt;br /&gt;Partenaires techniques : Communauté d’agglomération de Cergy-Pontoise ; association b.a-BA&lt;br /&gt;Date de début du projet : 01/01/2018&lt;br /&gt;Date de ﬁn : 2020 (au minimum, projet partenarial initial de 3 ans)
+OBJECTIFS&lt;br /&gt;
+Dans le cadre d’un partenariat avec la CACP, le service espace public a aménagé un Jardin école. L’idée est de proposer un site, ouvert à tous, qui permet de sensibiliser les habitants aux méthodes de cultures respectueuses de l’environnement (alternative aux produits phytosanitaires qui seront interdits aux particuliers dès janvier prochain) et à une gestion écologique.&lt;br /&gt;
+Ce lieu d’apprentissage et d’échanges, se veut aussi être vecteur de lien social et d’amélioration du cadre de vie. Le jardin est géré par les riverains avec l’appui du service des Espaces verts puisqu’il s’agit d’un espace communal mis à la disposition des usagers.&lt;br /&gt;
+Des formations gratuites sont proposées et planifiées autour des thèmes suivants : entretien du potager (10 ateliers animés par l’association b.a-BA), sciences participatives, taille des végétaux, compostage, paillage… Ce projet répond aux demandes des conseils de quartier : aménager des jardins partagés et développer les échanges entre les habitants.
+
+MESURES MISES EN ŒUVRE&lt;br /&gt;
+La commune a mis à disposition le terrain après avoir préparé le sol, fourni les graines et plantes du potager, mis en place un point d’eau et un composteur puis planté une haie végétale pour servir de support pédagogique aux futurs ateliers. La ville a également fourni les consommables (outils de jardin, rangements, paillage) afin que les « riverains-jardiniers » soient autonomes dès le premier atelier. En outre, elle a organisé la concertation avec les habitants sur le projet et la constitution d’un groupe de jardiniers référents.&lt;br /&gt;
+La Cellule Biodiversité de la CACP finance l’association b.a-BA qui a été retenue pour animer une dizaine d’ateliers de jardinage et d’accompagnement du projet. L’intercommunalité assure des animations sur le thème de la biodiversité (découverte de la faune et de la flore) et des sciences participatives. La pelouse située à proximité dans le Jardin des Taillis est conduite en prairie afin d’accueillir les ateliers dédiés à la découverte des sciences participatives. Les animations proposées en 2018 :
+réunion de consultation des habitants pour présenter le projet, recueillir leurs attentes ;
+ateliers de semis et plantations ;
+thématiques abordées : « Le calendrier au jardin », « Associations et rotations », « Les distances de plantation », « Le sol vivant », « Les auxiliaires », « Santé des plantes » ;
+journée de retour sur le déroulé de la première année du jardin autour d’un petit atelier culinaire intitulé : « Catsup et autres merveilles ». ;
+réunion pour définir avec les habitants les thèmes des animations 2019.
+
+ 
+RÉSULTATS/IMPACT POUR LA BIODIVERSITÉ&lt;br /&gt;
+L’enquête effectuée par les Élus de quartier, les services Démocratie locale et Espace Public, l’association b.a-BA et quelques riverains mobilisés sur les autres jardins partagés de la ville a permis de vérifier que le lieu est bien identifié par les habitants, de sonder leurs envies, d’identifier des habitants désireux de s’investir et leurs niveaux de pratiques en jardinage, enfin, de faire connaître le projet de Jardin école. Aucune objection n’a été portée. Au contraire, il semble que ce projet réponde aux attentes du voisinage. Cinq personnes se sont montrées volontaires pour s’investir et former ainsi le socle indispensable à la pertinence du projet. Enfin, la ville souhaite labelliser le site ÉcoJardin.
+Contact : &lt;br /&gt;
+Christophe ETCHEMENDY, responsable de l&#039;Espace Public&lt;br /&gt;cetchemendy@mairie-vaureal.fr
+Anne-Catherine VLAEMINCK, directrice de la Communication et des Relations Publiques&lt;br /&gt;acvlaeminck@mairie-vaureal.fr
+Sylvie GHEMIRES, responsable du Développement territorial et de l&#039;Urbanisme&lt;br /&gt;sghemires@mairie-vaureal.fr&lt;br /&gt;
+ 
+Pour en savoir plus :&lt;br /&gt;https://www.13commeune.fr/actualite/un-jardin-pedagogique-vaureal
+</description>
+ <guid isPermaLink="false">929</guid>
+ <pubDate>2018</pubDate>
+ <source url="http://www.capitale-biodiversite.fr/Capitale-Rsstest">Recueil d’expériences</source>
+ <dc:title>&lt;a href=&quot;/experiences/le-jardin-ecole&quot;&gt;Le jardin école&lt;/a&gt;</dc:title>
+ <dc:description>Organisme/institution en charge de la mise en œuvre : : la ville de Vauréal et la Cellule biodiversité de l’agglomération de Cergy-Pontoise (CACP)&lt;br /&gt;Services de la collectivité associés : Service espace public (voirie et espaces verts) ; Maison de la nature ; Service démocratie locale ; Service communication&lt;br /&gt;Budget : 4 250 € (dont 3 185 € pris en charge par la CACP et servent à rémunérer l’association b.a-BA qui anime 10 ateliers en 2018, le reste correspond à l’achat des végétaux)&lt;br /&gt;Partenaires ﬁnanciers : Communauté d’agglomération de Cergy-Pontoise&lt;br /&gt;Partenaires techniques : Communauté d’agglomération de Cergy-Pontoise ; association b.a-BA&lt;br /&gt;Date de début du projet : 01/01/2018&lt;br /&gt;Date de ﬁn : 2020 (au minimum, projet partenarial initial de 3 ans)
+OBJECTIFS&lt;br /&gt;
+Dans le cadre d’un partenariat avec la CACP, le service espace public a aménagé un Jardin école. L’idée est de proposer un site, ouvert à tous, qui permet de sensibiliser les habitants aux méthodes de cultures respectueuses de l’environnement (alternative aux produits phytosanitaires qui seront interdits aux particuliers dès janvier prochain) et à une gestion écologique.&lt;br /&gt;
+Ce lieu d’apprentissage et d’échanges, se veut aussi être vecteur de lien social et d’amélioration du cadre de vie. Le jardin est géré par les riverains avec l’appui du service des Espaces verts puisqu’il s’agit d’un espace communal mis à la disposition des usagers.&lt;br /&gt;
+Des formations gratuites sont proposées et planifiées autour des thèmes suivants : entretien du potager (10 ateliers animés par l’association b.a-BA), sciences participatives, taille des végétaux, compostage, paillage… Ce projet répond aux demandes des conseils de quartier : aménager des jardins partagés et développer les échanges entre les habitants.
+
+MESURES MISES EN ŒUVRE&lt;br /&gt;
+La commune a mis à disposition le terrain après avoir préparé le sol, fourni les graines et plantes du potager, mis en place un point d’eau et un composteur puis planté une haie végétale pour servir de support pédagogique aux futurs ateliers. La ville a également fourni les consommables (outils de jardin, rangements, paillage) afin que les « riverains-jardiniers » soient autonomes dès le premier atelier. En outre, elle a organisé la concertation avec les habitants sur le projet et la constitution d’un groupe de jardiniers référents.&lt;br /&gt;
+La Cellule Biodiversité de la CACP finance l’association b.a-BA qui a été retenue pour animer une dizaine d’ateliers de jardinage et d’accompagnement du projet. L’intercommunalité assure des animations sur le thème de la biodiversité (découverte de la faune et de la flore) et des sciences participatives. La pelouse située à proximité dans le Jardin des Taillis est conduite en prairie afin d’accueillir les ateliers dédiés à la découverte des sciences participatives. Les animations proposées en 2018 :
+réunion de consultation des habitants pour présenter le projet, recueillir leurs attentes ;
+ateliers de semis et plantations ;
+thématiques abordées : « Le calendrier au jardin », « Associations et rotations », « Les distances de plantation », « Le sol vivant », « Les auxiliaires », « Santé des plantes » ;
+journée de retour sur le déroulé de la première année du jardin autour d’un petit atelier culinaire intitulé : « Catsup et autres merveilles ». ;
+réunion pour définir avec les habitants les thèmes des animations 2019.
+
+ 
+RÉSULTATS/IMPACT POUR LA BIODIVERSITÉ&lt;br /&gt;
+L’enquête effectuée par les Élus de quartier, les services Démocratie locale et Espace Public, l’association b.a-BA et quelques riverains mobilisés sur les autres jardins partagés de la ville a permis de vérifier que le lieu est bien identifié par les habitants, de sonder leurs envies, d’identifier des habitants désireux de s’investir et leurs niveaux de pratiques en jardinage, enfin, de faire connaître le projet de Jardin école. Aucune objection n’a été portée. Au contraire, il semble que ce projet réponde aux attentes du voisinage. Cinq personnes se sont montrées volontaires pour s’investir et former ainsi le socle indispensable à la pertinence du projet. Enfin, la ville souhaite labelliser le site ÉcoJardin.
+Contact : &lt;br /&gt;
+Christophe ETCHEMENDY, responsable de l&#039;Espace Public&lt;br /&gt;cetchemendy@mairie-vaureal.fr
+Anne-Catherine VLAEMINCK, directrice de la Communication et des Relations Publiques&lt;br /&gt;acvlaeminck@mairie-vaureal.fr
+Sylvie GHEMIRES, responsable du Développement territorial et de l&#039;Urbanisme&lt;br /&gt;sghemires@mairie-vaureal.fr&lt;br /&gt;
+ 
+Pour en savoir plus :&lt;br /&gt;https://www.13commeune.fr/actualite/un-jardin-pedagogique-vaureal
+</dc:description>
+ <dc:date>2018</dc:date>
+</item>
+</channel>
+</rss>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+
+<head>
+  <title>Erreur | Capitales Françaises de la Biodiversité</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <style type="text/css" media="all">
+@import url("http://www.capitale-biodiversite.fr/modules/system/system.base.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/modules/system/system.menus.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/modules/system/system.messages.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/modules/system/system.theme.css?pld65b");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.capitale-biodiversite.fr/misc/ui/jquery.ui.core.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/misc/ui/jquery.ui.theme.css?pld65b");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.capitale-biodiversite.fr/modules/aggregator/aggregator.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/modules/comment/comment.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/modules/date/date_api/date.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/modules/field/theme/field.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/modules/node/node.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/modules/search/search.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/modules/user/user.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/modules/views/css/views.css?pld65b");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.capitale-biodiversite.fr/sites/all/modules/colorbox/styles/default/colorbox_style.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/modules/ctools/css/ctools.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/libraries/jquery-ui-multiselect-widget/jquery.multiselect.filter.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/modules/jquery_ui_multiselect_widget/jquery_ui_multiselect_widget.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/libraries/superfish/css/superfish.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/libraries/superfish/css/superfish-vertical.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/libraries/superfish/css/superfish-navbar.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/modules/views_slideshow/views_slideshow.css?pld65b");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.capitale-biodiversite.fr/sites/all/themes/capitalebiodiv/css/style.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/themes/capitalebiodiv/color/colors.css?pld65b");
+@import url("http://www.capitale-biodiversite.fr/sites/all/themes/capitalebiodiv/css/local.css?pld65b");
+</style>
+  <script type="text/javascript" src="http://www.capitale-biodiversite.fr/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/misc/drupal.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/all/modules/admin_menu/admin_devel/admin_devel.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/default/files/languages/fr_CavY1y2PRrUzfoM17qNsAta54mMzA5AvDei7zIAFUjg.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/all/libraries/colorbox/jquery.colorbox-min.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/all/modules/colorbox/js/colorbox.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/all/modules/colorbox/styles/default/colorbox_style.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/all/libraries/superfish/jquery.bgiframe.min.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/all/libraries/superfish/superfish.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/all/libraries/superfish/supersubs.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/all/libraries/superfish/supposition.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/all/libraries/superfish/sftouchscreen.js?pld65b"></script>
+<script type="text/javascript" src="http://www.capitale-biodiversite.fr/sites/all/modules/views_slideshow/js/views_slideshow.js?pld65b"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"capitalebiodiv","theme_token":"uph0YYrzvVhWEFEguJliwQOxSaCJ8OD4cung-3PaUko","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.css":1,"sites\/all\/libraries\/jquery-ui-multiselect-widget\/jquery.multiselect.filter.css":1,"sites\/all\/modules\/jquery_ui_multiselect_widget\/jquery_ui_multiselect_widget.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/themes\/capitalebiodiv\/css\/style.css":1,"sites\/all\/themes\/capitalebiodiv\/color\/colors.css":1,"sites\/all\/themes\/capitalebiodiv\/css\/local.css":1},"js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/fr_CavY1y2PRrUzfoM17qNsAta54mMzA5AvDei7zIAFUjg.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Fermer","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"jquery_ui_multiselect_widget":{"module_path":"sites\/all\/modules\/jquery_ui_multiselect_widget","multiple":true,"filter":false,"subselector":"","selectedlist":4,"autoOpen":false,"header":true,"height":175,"classes":"","filter_auto_reset":false,"filter_width":100,"jquery_ui_multiselect_widget_path_match_exclude":""}});
+//--><!]]>
+</script>
+</head>
+<body class="maintenance-page in-maintenance no-sidebars">
+  <div id="page">
+    <div id="header">
+      <div id="logo-title">
+
+                  <a href="/" title="Accueil" rel="home" id="logo">
+            <img src="http://www.capitale-biodiversite.fr/sites/default/files/logo_capitale-biodiversite.png" alt="Accueil" />
+          </a>
+        
+        <div id="name-and-slogan">
+                      <h1 id="site-name">
+              <a href="/" title="Accueil" rel="home"><span>Capitales Françaises de la Biodiversité</span></a>
+            </h1>
+          
+                  </div> <!-- /name-and-slogan -->
+      </div> <!-- /logo-title -->
+
+      
+    </div> <!-- /header -->
+
+    <div id="container" class="clearfix">
+
+      
+      <div id="main" class="column"><div id="main-squeeze">
+
+        <div id="content">
+          <h1 class="title" id="page-title">Erreur</h1>                    <div id="content-content" class="clearfix">
+            Le site Web a rencontré une erreur inattendue. Veuillez essayer de nouveau plus tard.          </div> <!-- /content-content -->
+        </div> <!-- /content -->
+
+      </div></div> <!-- /main-squeeze /main -->
+
+      
+    </div> <!-- /container -->
+
+    <div id="footer-wrapper">
+      <div id="footer">
+              </div> <!-- /footer -->
+    </div> <!-- /footer-wrapper -->
+
+  </div> <!-- /page -->
+
+</body>
+</html>

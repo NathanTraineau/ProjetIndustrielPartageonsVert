@@ -353,7 +353,7 @@ class FormState implements FormStateInterface {
   /**
    * This is not a special key, and no specific support is provided for it in
    * the Form API. By tradition it was the location where application-specific
-   * data was stored for communication between the submit, validation, and form
+   * data was stored for Communication.php between the submit, validation, and form
    * builder functions, especially in a multi-step-style form. Form
    * implementations may use any key(s) within $form_state (other than the keys
    * listed here and other reserved ones used by Form API internals) for this

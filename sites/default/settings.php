@@ -709,7 +709,7 @@ $settings['container_yamls'][] = $app_root . '/' . $site_path . '/services.yml';
  $settings['trusted_host_patterns'] = array(
     '^localhost$','^https://partageonsvert.herokuapp.com$'
  );
- 
+
  * @endcode
  * will allow the site to only run from www.example.com.
  *
@@ -776,9 +776,9 @@ $settings['entity_update_backup'] = TRUE;
  * Keep this code block at the end of this file to take full effect.
  */
 #
-# if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
-#   include $app_root . '/' . $site_path . '/settings.local.php';
-# }
+ if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
+   include $app_root . '/' . $site_path . '/settings.local.php';
+ }
 $databases['default']['default'] = array (
   'database' => 'partageonsVert',
   'username' => 'root',
