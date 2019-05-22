@@ -1,5 +1,5 @@
 distant_searcher.simple_form:
-  path: 'simple-form'
+  path: '/simple-form'
   defaults:
     _form: '\Drupal\distant-searcher\Form\SimpleForm'
     _title: 'Recherche'
@@ -8,7 +8,7 @@ distant_searcher.simple_form:
 
 
 distant_searcher.simple_ajax_form:
-  path: 'simple-ajax-form'
+  path: '/simple-ajax-form'
   defaults:
     _form: '\Drupal\distant-searcher\Form\SimpleAjaxForm'
     _title: 'Our cool ajax form'
