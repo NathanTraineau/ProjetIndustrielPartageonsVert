@@ -10,8 +10,6 @@ function display($type, $results )
 
     if ($type === "experience") {
         foreach ($results as $key => $value) {
-
-            $form
             ($value['ville'] . '<br>' . $value['latitude'] . '<br>' . html_entity_decode($value['body']));
 
             // etc
