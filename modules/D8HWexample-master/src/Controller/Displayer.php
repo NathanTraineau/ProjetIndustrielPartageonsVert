@@ -7,6 +7,7 @@ use Drupal\search_api\Plugin\DataType\Html;
 
 function display($type, $results )
 {
+  //function which displays the decoded json result sent from Requester
 
     if ($type === "experience") {
         foreach ($results as $key => $value) {
