@@ -10,7 +10,7 @@ function display($type, $results )
 
     if ($type === "experience") {
         foreach ($results as $key => $value) {
-            ($value['ville'] . '<br>' . $value['latitude'] . '<br>' . html_entity_decode($value['body']));
+            set_drupal_message(($value['ville'] . '<br>' . $value['latitude'] . '<br>' . html_entity_decode($value['body'])));
 
             // etc
         }
